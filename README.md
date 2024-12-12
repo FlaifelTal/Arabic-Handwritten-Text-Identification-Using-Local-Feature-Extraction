@@ -1,0 +1,2 @@
+# Arabic-Handwritten-Text-Identification-Using-Local-Feature-Extraction
+Developed a system for recognizing Arabic handwritten text using SIFT and ORB algorithms for feature extraction. Evaluated algorithm performance on accuracy, efficiency, robustness, and adaptability to scale, rotation, and illumination changes. Utilised OpenCV for image preprocessing and Matplotlib and Seaborn for visualization.
